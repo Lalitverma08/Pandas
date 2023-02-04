@@ -1,2 +1,2 @@
 # Pandas
-Learn Some Important  of Python's Pandas Module
+Some Important Methods of Python's Pandas Module
